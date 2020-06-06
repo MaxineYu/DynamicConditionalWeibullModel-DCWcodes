@@ -62,6 +62,3 @@ for(j in 1:6){
 }
 Ix6<-solve(Ix)
 sqrt(diag(Ix6))
-
-
-save.image("D:/zhou/pm25R/T4Data.RData")
