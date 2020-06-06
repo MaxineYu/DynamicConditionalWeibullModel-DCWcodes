@@ -187,6 +187,6 @@ for(j in 1:16){
 }
 Ix6<-solve(Ix)
 sqrt(diag(Ix6))
-save.image("D:/zhou/pm25R/T5Data.RData")
+
 
 stopCluster(cl)
